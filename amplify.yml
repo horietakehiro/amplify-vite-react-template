@@ -52,7 +52,7 @@ applications:
             - location
         configFilePath: *location*
         baseDirectory: *location*
-  - appRoot: apps/angular-app
+  - appRoot: projects/control-plane
     env:
       variables:
         key: value
